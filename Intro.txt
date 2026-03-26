@@ -1,0 +1,18 @@
+Introduction
+
+Accounts check, Jira, Slack, Nordpass, Gitlab, BOX
+
+MDM and security basics
+
+Self service request
+
+Tempo time logs
+
+notebook lm
+
+
+
+
+
+
+
